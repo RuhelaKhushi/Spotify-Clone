@@ -100,7 +100,7 @@ nav ul li{
 
 }
 .songItem img{
-    width: 43px;
+    width: 40px;
     margin: 0 23px;
     border-radius: 34px;
 }
@@ -122,6 +122,6 @@ nav ul li{
 
 .songInfo img{
     opacity: 0;
-    transition: opacity 1s ease-in;
+    transition: opacity 0.5s ease-in;
 }
 
